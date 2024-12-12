@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with JohnDoe landing page.">
     <meta name="author" content="Devcrud">
-    <title>JohnDoe Landing page | Free Bootstrap 4.3.x landing page</title>
+    <title> Adi Sunjana | Landing page </title>
     <!-- font icons -->
     <link rel="stylesheet" href="assetvendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="{{asset('vendors/themify-icons/css/themify-icons.css')}}">
@@ -28,8 +28,8 @@
             </ul>
             <div class="header-content">
                 <h4 class="header-subtitle" >Hello, I am</h4>
-                <h1 class="header-title">John Doe</h1>
-                <h6 class="header-mono" >Frond end Designer | Developer</h6>
+                <h1 class="header-title">Adi Sunjana</h1>
+                <h6 class="header-mono" >Frondt end Developer | Developer</h6>
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button>
             </div>
         </div>
@@ -55,8 +55,8 @@
                     <img src="{{asset('imgs/avatar.jpg')}}" alt="" class="brand-img">
                     <li class="brand-txt">
                         <a href="#home" class="nav-link">
-                            <h5 class="nav-link">John Doel</h5>
-                            <div class="brand-subtitle nav-link">Web Designer | Developer</div>
+                            <h5 class="nav-link">Adi Sunjana</h5>
+                            <div class="brand-subtitle nav-link">Front end Developer | Developer</div>
                         </a>
                     </li>
                 </ul>
