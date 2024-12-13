@@ -52,7 +52,7 @@
                     </li>
                 </ul>
                 <ul class="navbar-nav brand">
-                    <img src="{{asset('imgs/avatar.jpg')}}" alt="" class="brand-img">
+                    <img src="{{asset('imgs/adi.jpg')}}" alt="" class="brand-img">
                     <li class="brand-txt">
                         <a href="#home" class="nav-link">
                             <h5 class="nav-link">Adi Sunjana</h5>
@@ -79,19 +79,24 @@
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Who am I ?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">A Web Designer / Developer Located In Our Lovely Earth</h5>
-                <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?</p>
+                <h5 class="mb-3">Frontend Developer / Developer Located In Our Lovely Earth</h5>
+                <p class="mt-20">
+                Hello,
+I am a Frontend Developer with over 4 years of experience, specializing in Angular Framework for the past 4 years. Throughout my career, I have successfully developed various modern web applications with a strong focus on performance, intuitive user experiences, and high-quality UI/UX implementation.
+
+In addition to my expertise in Angular, I have some experience working with other frameworks such as Vue.js, React.js, and Laravel for backend development. This diverse background has given me a broader understanding of building integrated and scalable applications.
+                </p>
                 <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Download My CV</button>
             </div>
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Personal Info</h3>
                 <span class="line mb-5"></span>
                 <ul class="mt40 info list-unstyled">
-                    <li><span>Birthdate</span> : 09/13/1996</li>
-                    <li><span>Email</span> : info@website.com</li>
-                    <li><span>Phone</span> : + (123) 456-7890</li>
-                    <li><span>Skype</span> : John_Doe </li>
-                    <li><span>Address</span> :  12345 Fake ST NoWhere AB Country.</li>
+                    <li><span>Birthdate</span> : 19/06/1995</li>
+                    <li><span>Email</span> : Adisunjana443@gmail.com</li>
+                    <!-- <li><span>Phone</span> : + (123) 456-7890</li> -->
+                    <!-- <li><span>Skype</span> : John_Doe </li> -->
+                    <li><span>Address</span> :  KP Cibojong Kec. Cisurupan Kab. Garut</li>
                 </ul>
                 <ul class="social-icons pt-3">
                     <li class="social-item"><a class="social-link" href="#"><i class="ti-facebook" aria-hidden="true"></i></a></li>
@@ -146,17 +151,32 @@
                             </div>
                         </div>
                         <div class="card-body">
-                            <h6 class="title text-danger">2017 - Present</h6>
-                            <P>UX Developer</P>
-                            <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
-                            <hr>
-                            <h6 class="title text-danger">2016 - 2017</h6>
+                            <h6 class="title text-danger">2024 - Present</h6>
                             <P>Front-end Developer</P>
-                            <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
+                            <P class="subtitle">
+                            This year, I am working on several personal projects. One of them is a Resume Builder built with the latest Angular. Additionally, I am developing a finance tracking application and a portfolio generator using Laravel to further enhance my skills in Laravel.
+                            </P>
                             <hr>
-                            <h6 class="title text-danger">2015 - 2016</h6>
-                            <P>UX Designer</P>
-                            <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
+
+                            <h6 class="title text-danger">2022 - 2024</h6>
+                            <P>Front-end Developer</P>
+                            <P class="subtitle">
+                            From May 2022 to November 2024, I continued my career as a Frontend Developer at PT Insura Media Solusi. I worked extensively on financial web projects, particularly in the insurance sector, focusing on creating intuitive user interfaces and developing features tailored to the needs of the financial industry.
+                            </P>
+
+                            <hr>
+                            <h6 class="title text-danger">2020 - 2022</h6>
+                            <P>Front-end Developer</P>
+                            <P class="subtitle">
+                            From November 2020 to May 2022, I worked at Redbuzz Mediatama as a Frontend Developer. Initially, I started as a Fullstack Developer, but due to the company's need for a Frontend Developer, I transitioned to this role, focusing on Angular as the primary tech stack. During this time, I was involved in various web application projects, prioritizing performance and user experience.
+                            </P>
+                            <hr>
+
+                            <h6 class="title text-danger">2020</h6>
+                            <P>Junior web Developer</P>
+                            <P class="subtitle">
+                                From January 2020 to June 2020, I joined a bootcamp as a Junior Web Developer. I learned Laravel and worked on projects like a company profile website and e-commerce development, including creating product filters and displaying products.
+                            </P>
                         </div>
                     </div>
                 </div>
@@ -727,7 +747,7 @@
                                 <i class="ti-mobile icon-md"></i>
                             </div>
                             <div class="col-10 ">
-                                <h6 class="d-inline">Phone : <br> <span class="text-muted">+ (123) 456-789</span></h6>
+                                <h6 class="d-inline">Phone : <br> <span class="text-muted">+ (62) 85724905705</span></h6>
                             </div>
                         </div>
                         <div class="row mb-2">
